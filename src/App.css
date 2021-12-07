@@ -1,0 +1,22 @@
+div {
+  background-color: rgb(0, 0, 54);
+}
+.fn {
+  color: gray;
+  font-family: "Times New Roman", Times, serif;
+  display: flex;
+  justify-content: center;
+}
+.pdp1 {
+  width: 500px;
+}
+.pdp {
+  display: flex;
+  justify-content: center;
+}
+.add {
+  color: gray;
+  font-family: "Times New Roman", Times, serif;
+  display: flex;
+  justify-content: center;
+}
